@@ -85,12 +85,12 @@ legend {
 	display: block;
 }
 html, body{
-    line-height: 1;
     font-size: 14px;
     color: #000000;
     background-color: #fafafa;
     font-family: Montserrat;
     font-weight: 500;
+    height:100%;
 }
 .wraper{
     min-height: 100%;
@@ -512,7 +512,6 @@ a.button:hover, a.__active-button {
 }
 .furniture__item:hover {
     color: #244D4D;
-    font-weight: 700;
 }
 .swiper{
     min-width: 0px;
